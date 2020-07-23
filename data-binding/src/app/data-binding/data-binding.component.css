@@ -1,0 +1,9 @@
+* {
+    margin: 20px;
+}
+
+.highlight {
+    background-color: #ffee00;
+    font-weight: bold;
+    cursor: pointer;
+}
